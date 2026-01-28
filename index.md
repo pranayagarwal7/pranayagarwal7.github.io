@@ -2,35 +2,31 @@
 
 ---
 
-Contact: [pranayagarwal7@email.com](mailto:pranayagarwal7@email.com)
+📫 Contact: [pranayagarwal7@email.com](mailto:pranayagarwal7@email.com)
 
-### Category Name 1 
+### 🤖 AI & Game Development
 
-[Project 1 Title](/sample_page)
+[Connect4 AI — Minimax Algorithm](https://github.com/pranayagarwal7/Connect4AI)
+<img src="https://raw.githubusercontent.com/pranayagarwal7/Connect4AI/master/images/connect4_screenshot.png" onerror="this.src='images/dummy_thumbnail.jpg'"/>
+*An intelligent Connect Four suite featuring a custom-built AI opponent that predicts moves using the Minimax algorithm and NumPy.*
+
+---
+
+### 📊 Data Science & Forecasting
+
+[Medical AI Insurance Prediction](https://github.com/pranayagarwal7/Medical-AI)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+*Time-series forecasting for insurance premiums. This project applies SARIMA models to analyze and predict medical cost trends.*
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+
+[Linear Regression Analysis Report](https://github.com/pranayagarwal7/Linear-Regression)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+*A deep dive into statistical modeling, focusing on outlier removal and the interpretation of OLS regression results.*
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
-
+### 🛠️ Technical Skills
+- **Languages:** Python (FastAPI, NumPy, Pandas)
+- **AI/ML:** Minimax Algorithm, SARIMA Forecasting, Linear Regression
+- **Tools:** Git, GitHub Pages, Pygame

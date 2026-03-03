@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Pranay&#39;s Portfolio</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Pranay&#39;s Portfolio</description>
+    <title>Machine Learning on Pranay&#39;s Portfolio</title>
+    <link>http://localhost:1313/tags/machine-learning/</link>
+    <description>Recent content in Machine Learning on Pranay&#39;s Portfolio</description>
     <generator>Hugo -- 0.157.0</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 03 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI-Powered Medical Insurance Platform</title>
       <link>http://localhost:1313/posts/medical-insurance-capstone/</link>
       <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/medical-insurance-capstone/</guid>
       <description>An end-to-end machine learning pipeline optimizing medical insurance claim processing and predicting premium costs.</description>
-    </item>
-    <item>
-      <title>Connect4AI: Minimax Agent with Pygame GUI</title>
-      <link>http://localhost:1313/posts/connect4-ai/</link>
-      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/connect4-ai/</guid>
-      <description>An interactive Connect 4 application featuring an AI agent that uses Minimax with Alpha-Beta pruning to evaluate thousands of board states in real-time.</description>
     </item>
   </channel>
 </rss>

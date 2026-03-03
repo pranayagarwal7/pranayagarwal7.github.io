@@ -1,10 +1,47 @@
-baseURL: 'https://pranaygarwal.com'
-languageCode: 'en-US'
-title: 'My Portfolio'
+baseURL: 'https://pranayagarwal7.github.io/'
+languageCode: 'en-us'
+title: "Pranay's Portfolio"
 theme: 'PaperMod'
 
+# THIS FIXES THE RSS ERROR:
 author:
-  name: "Pranay Agarwal"
+  name: "Pranay"
+
+menu:
+  main:
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 10
+    - identifier: github
+      name: GitHub
+      url: https://github.com/pranayagarwal7
+      weight: 20
 
 params:
-  author: "Pranay Agarwal"
+  hideMeta: true
+  # Sets the author for the theme parameters
+  author: "Pranay"
+  
+  # Enables the centered bio homepage
+  profileMode:
+    enabled: true
+    title: "Hi, I'm Pranay 👋"
+    subtitle: "Data Analyst & Machine Learning Specialist | Durham College"
+    imageUrl: "" 
+    imageWidth: 150
+    imageHeight: 150
+    buttons:
+      - name: "View Projects"
+        url: "/posts/"
+      - name: "Tags & Skills"
+        url: "/tags/"
+
+  # Automatically generates the official logos
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/pranayagarwal7"
+    - name: "linkedin"
+      url: "https://linkedin.com/in/[yourprofile]" # Update this!
+    - name: "kaggle"
+      url: "https://www.kaggle.com/pranayagarwalwq5" # Update this!

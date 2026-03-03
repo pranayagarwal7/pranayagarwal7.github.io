@@ -1,0 +1,10 @@
+baseURL: 'https://pranaygarwal.com'
+languageCode: 'en-US'
+title: 'My Portfolio'
+theme: 'PaperMod'
+
+author:
+  name: "Pranay Agarwal"
+
+params:
+  author: "Pranay Agarwal"

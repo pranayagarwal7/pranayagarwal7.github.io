@@ -245,6 +245,21 @@ section { padding: 96px 0; }
 }
 .about-text p { color: var(--text-muted); margin-bottom: 16px; }
 .about-text strong { color: var(--text); }
+.about-photo-wrap {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 28px;
+}
+.about-photo {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center top;
+  border: 3px solid var(--accent);
+  box-shadow: 0 0 0 5px var(--accent-dim), var(--shadow);
+}
+
 .about-highlights {
   display: flex;
   gap: 32px;

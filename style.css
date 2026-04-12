@@ -196,27 +196,6 @@ img { max-width: 100%; display: block; }
   0%, 100% { box-shadow: 0 0 0 8px var(--accent-dim), var(--shadow); }
   50%       { box-shadow: 0 0 0 12px var(--accent-dim), var(--shadow); }
 }
-.floating-card {
-  position: absolute;
-  background: var(--bg-card);
-  border: 1px solid var(--border);
-  border-radius: 10px;
-  padding: 12px 18px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  box-shadow: var(--shadow);
-  animation: float 4s ease-in-out infinite;
-}
-.fc1 { top: 10%; left: 0;   animation-delay: 0s; }
-.fc2 { top: 40%; right: 0;  animation-delay: 1.3s; }
-.fc3 { bottom: 8%; left: 8%; animation-delay: 2.6s; }
-@keyframes float {
-  0%, 100% { transform: translateY(0); }
-  50%       { transform: translateY(-10px); }
-}
-.fc-label { font-size: .7rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: .05em; }
-.fc-val   { font-size: 1.3rem; font-weight: 700; color: var(--accent); }
 
 /* ── Sections shared ── */
 section { padding: 96px 0; }

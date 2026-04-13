@@ -1,25 +1,18 @@
 # Pranay Agarwal — Data Analyst Portfolio
 
-Personal portfolio site built with plain HTML + CSS, hosted on GitHub Pages.
+This repository hosts my personal portfolio website, live at **[pranayagarwal7.github.io](https://pranayagarwal7.github.io)**.
 
-## Setup (5 steps)
+## Purpose
 
-1. **Create the repo** on GitHub named exactly: `pranayagarwal7.github.io`
-2. **Upload these files** (drag & drop in the GitHub web UI, or use Git):
-   - `index.html`
-   - `style.css`
-3. **Enable GitHub Pages**:
-   - Go to repo → Settings → Pages
-   - Source: `Deploy from a branch` → `main` → `/ (root)`
-   - Click Save
-4. **Wait ~60 seconds**, then visit: `https://pranayagarwal7.github.io`
-5. **Add your project links** — search for `href="#"` in `index.html` and replace with your real GitHub/Tableau/Power BI URLs.
+A single place to showcase my work as a Data Analyst and AI/ML practitioner — including professional experience, academic projects, technical skills, and contact information. Built to give recruiters, collaborators, and peers a clear picture of what I do and how I think about data.
 
-## Updating project links
+## What's Inside
 
-Each project card has two icon links — GitHub repo and a live demo/dashboard.
-Search for `href="#"` in `index.html` to find all placeholder links.
+- **Experience** — 3+ years as a Data Analyst across data migration, ETL pipelines, and dashboard reporting
+- **Projects** — Machine learning and AI projects spanning regression, classification, explainable AI, and game AI
+- **Skills** — Python, SQL, R, Tableau, Power BI, scikit-learn, TensorFlow, AWS, and more
+- **Education** — Graduate certificates in Data Analytics and AI from Durham College, B.E. from University of Delhi
 
-## Local preview
+## Tech
 
-Just open `index.html` in any browser — no build step needed.
+Plain HTML + CSS, deployed via GitHub Pages. No frameworks, no build step.

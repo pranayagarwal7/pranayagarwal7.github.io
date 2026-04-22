@@ -159,6 +159,8 @@ img { max-width: 100%; display: block; }
   transition: border-color .2s, transform .15s;
 }
 .btn-outline:hover { border-color: var(--text-muted); transform: translateY(-1px); }
+.btn-resume { border-color: var(--accent) !important; color: var(--accent) !important; }
+.btn-resume:hover { background: var(--accent); color: #fff !important; border-color: var(--accent) !important; }
 .hero-links { display: flex; gap: 20px; }
 .hero-links a {
   color: var(--text-muted);
